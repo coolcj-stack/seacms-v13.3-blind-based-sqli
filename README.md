@@ -42,6 +42,8 @@ Ubuntu 22, CPU: 2 cores, Memory: 4GB, Baota Panel -v9.6.0, MySQL 5.7.43, Apache 
 
 After installing the system, go to the default background. As shown in the picture
 
+<img width="832" height="536" alt="home" src="https://github.com/user-attachments/assets/4a19fa3d-d385-48bb-bedc-b4b450065dc5" />
+
 When the condition 6796=6796 is true; The data was successfully queried
 
 <img width="2020" height="1366" alt="image" src="https://github.com/user-attachments/assets/28ddf9c9-0311-4414-92fe-d0d43b6ea1e5" />
